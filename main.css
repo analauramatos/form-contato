@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(68, 16, 114);
+}
+
+form{
+    border: 1px solid white;
+    color: aliceblue;
+}
+button{
+    background-color: rgb(157, 86, 224);
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    color: aliceblue;
+    font-weight: bolder;
+}
